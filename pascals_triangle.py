@@ -6,7 +6,7 @@
 #                                        #
 ##########################################
 
-numRows = 10
+numRows = 10**8
 
 def pascals_triangle(numRows):
     #Every triangle starts with a 1
